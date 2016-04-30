@@ -1,0 +1,5 @@
+chardet
+IPy
+Celery
+Elasticsearch
+redis
